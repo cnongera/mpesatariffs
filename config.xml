@@ -8,7 +8,7 @@
         Clement Ongera Nyangoya
     </author>
     <content src="index.html" />
-    <icon src="img/mpesa.png" />
+    <icon src="www/img/mpesa.png" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
